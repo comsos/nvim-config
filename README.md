@@ -36,3 +36,9 @@ nvim
 #### For TypeScript Development
 
 :TSInstall typscript tsx
+
+#### For Python Development
+
+Recommended LSP:
+pylsp*, pyright*, jedi-language-server(optional)
+\*better option
